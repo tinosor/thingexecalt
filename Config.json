@@ -2,5 +2,5 @@
   "moduleName": "Xenith",
   "rbxhttp": false,
   "script": "loadstring(game:HttpGet('https://api.luarmor.net/files/v3/loaders/625a0a3be13a7d5f4dd90d5f65b7de91.lua'))()",
-  "versionName": "RonixExploit"
+  "versionName": "Android"
 } 

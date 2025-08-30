@@ -1,5 +1,5 @@
 {
-  "moduleName": "Xenith",
+  "moduleName": "Hydrogen",
   "rbxhttp": false,
   "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Gork3m/RobloxStuff/refs/heads/main/luarmor_compatibility_test.lua'))()",
   "versionName": "Android"

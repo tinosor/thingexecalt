@@ -50,9 +50,9 @@ end
 --// Global Variables
 
 getgenv().ED_AntiKick = {
-	Enabled = true, -- Set to false if you want to disable the Anti-Kick.
+	Enabled = false, -- Set to false if you want to disable the Anti-Kick.
 	SendNotifications = false, -- Set to true if you want to get notified for every event.
-	CheckCaller = true -- Set to true if you want to disable kicking by other user executed scripts.
+	CheckCaller = false -- Set to true if you want to disable kicking by other user executed scripts.
 }
 
 --// Main

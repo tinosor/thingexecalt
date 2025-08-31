@@ -1,11 +1,13 @@
-while wait(0.1) do 
-    if #game:GetService("CoreGui").RobloxPromptGui.promptOverlay:GetChildren() ~= 0 then
-        local TeleportService = game:GetService("TeleportService")
-        local Players = game:GetService("Players")
+spawn(function()
+    while task.wait(1) do 
+        if #game:GetService("CoreGui").RobloxPromptGui.promptOverlay:GetChildren() ~= 0 then
+            local TeleportService = game:GetService("TeleportService")
+            local Players = game:GetService("Players")
 
-        TeleportService:Teleport(game.PlaceId, Players.LocalPlayer)
+            TeleportService:Teleport(game.PlaceId, Players.LocalPlayer)
+        end
     end
-end
+end)
 
 local getgenv, getnamecallmethod, hookmetamethod, hookfunction, newcclosure, checkcaller, lower, gsub, match = getgenv, getnamecallmethod, hookmetamethod, hookfunction, newcclosure, checkcaller, string.lower, string.gsub, string.match
 

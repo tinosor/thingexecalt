@@ -1,6 +1,7 @@
 {
   "moduleName": "Xenith",
   "rbxhttp": false,
-  "script": "loadstring(game:HttpGet('https://api.luarmor.net/files/v3/loaders/5b717ead203dc834fae6d4956246e402.lua'))()",
+  "script_url": "https://api.luarmor.net/files/v3/loaders/5b717ead203dc834fae6d4956246e402.lua",
+  "disc_invite": "https://discord.gg/xenithhub",
   "versionName": "Xenith"
 }

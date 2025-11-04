@@ -1,6 +1,6 @@
 {
-  "moduleName": "Delta",
+  "moduleName": "Xenith",
   "rbxhttp": false,
-  "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/tinosor/thingexecalt/refs/heads/main/ui.luau'))()",
-  "versionName": "Android"
-} 
+  "script": "loadstring(game:HttpGet('https://api.luarmor.net/files/v3/loaders/5b717ead203dc834fae6d4956246e402.lua'))()",
+  "versionName": "Xenith"
+}
